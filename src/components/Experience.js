@@ -59,6 +59,15 @@ const Experience = () => {
         />
         <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
           <Details
+          position="MERN Stack Intern"
+          company="Grid RnD"
+          companyLink="https://gridrnd.in/"
+          time="Dec 2024 – Jan 2025"
+          address="Remote – Bangalore"
+          work="Worked on Visume AI, an AI-powered job portal, where I developed and optimized core backend modules using Node.js, Express, and MySQL. Improved database performance by optimizing queries, resulting in 15% faster load times. Contributed to both frontend and backend features in a fast-paced, production-grade codebase, collaborating closely with senior engineers to ship scalable features under tight deadlines."
+          />
+
+          <Details
             position="Finance Secretary"
             company="IIIT Nagpur"
             companyLink="https://iiitn.ac.in"

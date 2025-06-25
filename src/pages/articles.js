@@ -143,68 +143,42 @@ export default function Articles() {
           />
 
           <ul className="grid grid-cols-2 gap-16 lg:gap-8 md:grid-cols-1 md:gap-y-16">
-            <FeaturedArticle
-              img={blog1}
-              title="build a custom pagination component in reactjs from scratch"
-              time="9 min read"
-              summary="Learn how to build a custom pagination component in ReactJS from scratch. Follow this 
-              step-by-step guide to integrate Pagination component in your ReactJS project."
-              link="https://devdreaming.com/blogs/create-pagination-component-reactjs"
-            />
+  <FeaturedArticle
+    img={blog5}
+    title="TypeScript vs JavaScript in Backend: When & Why to Choose Strong Typing"
+    time="7 min read"
+    summary="Explore the key differences between TypeScript and JavaScript for backend development. Understand when strong typing becomes a necessity and how it improves scalability."
+    link="https://medium.com/@saaaaaaaaaaaaa/typescript-vs-javascript-in-backend-when-why-to-choose-strong-typing-775eb78fdba9"
+  />
 
-            <FeaturedArticle
-              img={blog2}
-              title="creating stunning loading screens in react: Build 3 types of loading screens"
-              time="10 min read"
-              summary="Learn how to create stunning loading screens in React with 3 different methods. 
-              Discover how to use React-Loading, React-Lottie & build a custom loading screen. Improve the 
-              user experience."
-              link="https://devdreaming.com/blogs/create-3-different-types-of-loading-screens-in-react"
-            />
-          </ul>
+  <FeaturedArticle
+    img={blog2}
+    title="Advanced Error Handling Patterns in Express"
+    time="8 min read"
+    summary="Master advanced error handling in Express.js with patterns like centralized middleware, async wrapper functions, and custom error classes."
+    link="https://medium.com/@saaaaaaaaaaaaa/advanced-error-handling-patterns-in-express-a832d9a87cb7"
+  />
+</ul>
 
-          <h2 className="font-bold text-4xl w-full text-center mt-32 my-16">
-            All Articles
-          </h2>
+<h2 className="font-bold text-4xl w-full text-center mt-32 my-16">
+  All Articles
+</h2>
 
-          <ul className="flex flex-col items-center relative">
-            <Article
-              title="form validation in reactjs: build a reusable custom hook for inputs and error handling"
-              img={blog3}
-              date="January 27, 2023"
-              link="https://devdreaming.com/blogs/react-form-validation-custom-hook"
-            />
-            <Article
-              title="silky smooth scrolling in reactjs: a step-by-step guide for react developers"
-              img={blog4}
-              date="January 30, 2023"
-              link="https://devdreaming.com/blogs/smooth-scrolling-in-react-js"
-            />
-            <Article
-              title="creating an efficient modal component in react using hooks and portals"
-              img={blog5}
-              date="January 29, 2023"
-              link="https://devdreaming.com/blogs/create-efficient-modal-react-portals"
-            />
-            <Article
-              title="build a fabulous todo list app with react, redux and framer-motion"
-              img={blog6}
-              date="January 28, 2023"
-              link="https://devdreaming.com/blogs/build-react-redux-framer-motion-todo-app"
-            />
-            <Article
-              title="redux simplified: a beginner's guide for web developers"
-              img={blog7}
-              date="January 31, 2023"
-              link="https://devdreaming.com/blogs/redux-simply-explained"
-            />
-            <Article
-              title="what is higher order component (hoc) in react?"
-              date="January 4, 2023"
-              img={blog8}
-              link="https://devdreaming.com/blogs/higher-order-component-hoc-react"
-            />
-          </ul>
+<ul className="flex flex-col items-center relative">
+  <Article
+    title="The Developer’s Survival Guide: How I Avoided Burnout During Exam & Interview Hell"
+    img={blog3}
+    date="May 2024"
+    link="https://medium.com/@saaaaaaaaaaaaa/the-developers-survival-guide-how-i-avoided-burnout-during-exam-interview-hell-18f5a71052af"
+  />
+  <Article
+    title="A Computer Science Degree is Not a Coding Bootcamp – and it Was Never Meant to Be"
+    img={blog7}
+    date="April 2024"
+    link="https://medium.com/@saaaaaaaaaaaaa/a-computer-science-degree-is-not-a-coding-bootcamp-and-it-was-never-meant-to-be-59e52534d67a"
+  />
+</ul>
+
         </Layout>
       </main>
     </>

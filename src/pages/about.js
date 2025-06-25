@@ -59,21 +59,16 @@ export default function About() {
               <h2 className="mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75">
                 BIOGRAPHY
               </h2>
-              <p className="font-medium ">
-              Hi! I am <strong>Sujal Ahirrao</strong>, a third-year Computer Science student at IIIT Nagpur with a strong foundation in data structures, algorithms, and web development. I specialize in creating scalable systems and intuitive user interfaces using technologies like Next.js, Tailwind CSS, and Framer Motion. My projects include impactful applications like Ecomover and Connect, alongside a portfolio website showcasing my technical journey.
-              </p>
-              <p className="my-4 font-medium">
-                I believe that design is about more than just making things look
-                pretty – it&apos;s about solving problems and creating
-                intuitive, enjoyable experiences for users.
-              </p>
               <p className="font-medium">
-                Whether I&apos;m working on a website, mobile app, or other
-                digital product, I bring my commitment to design excellence and
-                user-centered thinking to every project I work on. I look
-                forward to the opportunity to bring my skills and passion to
-                your next project.
-              </p>
+  Hi! I am <strong>Sujal Ahirrao</strong>, a fourth-year Computer Science student at IIIT Nagpur with a strong foundation in data structures, algorithms, and full-stack web development. I specialize in building scalable backend systems and intuitive frontends using technologies like Next.js, Node.js, Express, Tailwind CSS, and Framer Motion. My projects include impactful applications like <strong>Pixen AI</strong>, <strong>BitScope</strong>, and <strong>ServiceIQ</strong>, along with a portfolio website that reflects my technical journey.
+</p>
+<p className="my-4 font-medium">
+  I believe software should not only work well—it should also offer seamless, enjoyable experiences. Great design isn't just about visuals; it's about solving real problems in the smartest, most user-friendly way possible.
+</p>
+<p className="font-medium">
+  Whether I&apos;m working on a web platform, API service, or end-to-end product, I bring a commitment to clean architecture, product thinking, and user-first development. I’m excited to keep building, learning, and contributing to meaningful projects.
+</p>
+
             </div>
             <div className="relative col-span-3 h-max rounded-2xl border-2 border-solid border-dark 
             bg-light p-8 dark:border-light dark:bg-dark
