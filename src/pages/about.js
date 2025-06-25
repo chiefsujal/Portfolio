@@ -63,7 +63,7 @@ export default function About() {
   Hi! I am <strong>Sujal Ahirrao</strong>, a fourth-year Computer Science student at IIIT Nagpur with a strong foundation in data structures, algorithms, and full-stack web development. I specialize in building scalable backend systems and intuitive frontends using technologies like Next.js, Node.js, Express, Tailwind CSS, and Framer Motion. My projects include impactful applications like <strong>Pixen AI</strong>, <strong>BitScope</strong>, and <strong>ServiceIQ</strong>, along with a portfolio website that reflects my technical journey.
 </p>
 <p className="my-4 font-medium">
-  I believe software should not only work well—it should also offer seamless, enjoyable experiences. Great design isn't just about visuals; it's about solving real problems in the smartest, most user-friendly way possible.
+  I believe software should not only work well—it should also offer seamless, enjoyable experiences. Great design is not just about visuals; it is about solving real problems in the smartest, most user-friendly way possible.
 </p>
 <p className="font-medium">
   Whether I&apos;m working on a web platform, API service, or end-to-end product, I bring a commitment to clean architecture, product thinking, and user-first development. I’m excited to keep building, learning, and contributing to meaningful projects.
